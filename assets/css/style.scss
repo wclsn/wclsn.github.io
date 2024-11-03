@@ -2,3 +2,8 @@
 .inner{
   max-width: 80%;
 }
+
+// Add the following rule to modify the height of the header
+header.page-header {
+  height: 50px; // Adjust the height as needed
+}
