@@ -1,19 +1,6 @@
 title: Shaonan Wu's Homepage
 description: Shaonan Wu's Homepage
 
-header:
-  pages:
-    - name: Home
-      slug: /
-
-footer:
-  show_powered_by: False
-  follow:
-    - type: github
-      name: GitHub
-      link: http://github.com/wclsn
-    - type: 
-
 # Build settings
 markdown: kramdown
 sass:
