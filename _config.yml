@@ -1,25 +1,5 @@
+theme: jekyll-theme-cayman
+
 title: Shaonan Wu's Homepage
-description: Shaonan Wu's Homepage
-
-# Build settings
-markdown: kramdown
-sass:
-    style: :compressed
-plugins:
-  - jekyll-feed
-
-# Excluded items
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - feed.xml
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-
-# Used for defeating caching
-version: 1
+description: A PhD student and AI researcher
+show_downloads: false
