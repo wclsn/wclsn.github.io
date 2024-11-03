@@ -11,7 +11,7 @@ Shaonan Wu is currently a joint PhD student at Xi'an Jiaotong University and Mic
 ### Publication
 
 - **Alchemy: Amplifying Theorem-Proving Capability through Symbolic Mutation**
-  <br> **Shaonan Wu**, Shuai Lu, Yeyun Gong, Nan Duan, Ping Wei.
+  <br> Shaonan Wu*, Shuai Lu, Yeyun Gong, Nan Duan, Ping Wei.
   <br> Arxiv Preprint.
   <br> TL;DR: We propose a CPU-only method to synthesize new theorems based on existing theorems, which shows promise in enhancing the theorem-proving ability of neural provers.
 
