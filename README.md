@@ -2,7 +2,7 @@
 [Google Scholar](https://scholar.google.com/citations?user=-xYXQJAAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/shaonan-wu-945b2a335/)
 ### <span style="color: #159997;">Please contact me with this email: shaonanwu[AT]stu.xjtu.edu.cn </span>
 
-Shaonan Wu is currently a joint PhD student at Xi'an Jiaotong University and Microsoft Research Asia, under the co-supervision of [Dr.Ping Wei](https://gr.xjtu.edu.cn/web/pingwei), [Dr.Mao Yang](https://www.microsoft.com/en-us/research/people/maoyang/) and [Dr.Nan Duan](https://nanduan.github.io/). He recevie his B.S. degree in Artificial Intelligence from XJTU in 2024. His research interests include machine reasoning, neural-symbolic AI and AI4Math. 
+Shaonan Wu is currently a joint PhD student at Xi'an Jiaotong University and Microsoft Research Asia, under the co-supervision of [Dr.Ping Wei](https://gr.xjtu.edu.cn/web/pingwei), [Dr.Mao Yang](https://www.microsoft.com/en-us/research/people/maoyang/) and [Dr.Nan Duan](https://nanduan.github.io/). He recevie his B.S. degree in Artificial Intelligence from XJTU in 2024. His research interests include machine reasoning, neural-symbolic AI and AI4Math. I'm interested in practicing [slow science](http://slow-science.org/).
 
 ### Research Experience
 - [2023/11 ~ 2024/9] Research Intern, Microsoft Research Asia (Mentor: Shuai Lu & Nan Duan)
