@@ -6,7 +6,8 @@ Shaonan Wu is currently a joint PhD student at Xi'an Jiaotong University and Mic
 
 ### Research Experience
 - [2023/11 ~ 2024/9] Research Intern, Microsoft Research Asia (Mentor: Shuai Lu & Nan Duan)
-- [2024/9 ~ Present] Research Intern & Joint PhD student, Microsoft Research Asia (Mentor: Shuai Lu & Mao Yang)
+- [2024/9 ~ 2025/9] Research Intern & Joint PhD student, Microsoft Research Asia (Mentor: Shuai Lu & Mao Yang)
+- [2025/9 ~ Present] Research Intern & Joint PhD student, Microsoft Research Asia (Mentor: Yeyun Gong & Mao Yang)
  
 ### Publication
 
