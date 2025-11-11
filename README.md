@@ -2,12 +2,11 @@
 [Google Scholar](https://scholar.google.com/citations?user=-xYXQJAAAAAJ&hl=en) \| [LinkedIn](https://www.linkedin.com/in/shaonan-wu-945b2a335/)
 ### <span style="color: #159997;">Please contact me with this email: shaonanwu[AT]stu.xjtu.edu.cn </span>
 
-Shaonan Wu is currently a joint PhD student at Xi'an Jiaotong University and Microsoft Research Asia, under the co-supervision of [Dr.Ping Wei](https://gr.xjtu.edu.cn/web/pingwei), [Dr.Mao Yang](https://www.microsoft.com/en-us/research/people/maoyang/) and [Dr.Nan Duan](https://nanduan.github.io/). He recevie his B.S. degree in Artificial Intelligence from XJTU in 2024. His research interests include machine reasoning, neural-symbolic AI and AI4Math. He is interested in practicing [slow science](http://slow-science.org/).
+Shaonan Wu is a second-year Ph.D. student in the School of Artificial Intelligence at Xi'an Jiaotong University (XJTU) and a research intern at the Vision and Multimodal Lab, JD Explore Academy. Previously, he was a joint Ph.D. student with Microsoft Research Asia and XJTU, co-supervised by Dr. Ping Wei and Dr. Nan Duan. He received his B.S. degree in Artificial Intelligence from XJTU in 2024. His research interests include machine reasoning and foundation models.
 
 ### Research Experience
 - [2023/11 ~ 2024/9] Research Intern, Microsoft Research Asia (Mentor: Shuai Lu & Nan Duan)
-- [2024/9 ~ 2025/9] Research Intern & Joint PhD student, Microsoft Research Asia (Mentor: Shuai Lu & Mao Yang)
-- [2025/9 ~ Present] Research Intern & Joint PhD student, Microsoft Research Asia (Mentor: Yeyun Gong & Mao Yang)
+- [2024/9 ~ 2025/11] Research Intern & Joint PhD student, Microsoft Research Asia (Mentor: Shuai Lu & Yeyun Gong)
  
 ### Publication
 
