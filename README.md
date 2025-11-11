@@ -7,6 +7,7 @@ Shaonan Wu is a second-year Ph.D. student in the School of Artificial Intelligen
 ### Research Experience
 - [2023/11 ~ 2024/9] Research Intern, Microsoft Research Asia (Mentor: Shuai Lu & Nan Duan)
 - [2024/9 ~ 2025/11] Research Intern & Joint PhD student, Microsoft Research Asia (Mentor: Shuai Lu & Yeyun Gong)
+- [2025/11 ~ current] Research Intern, JD Explore Academy
  
 ### Publication
 
