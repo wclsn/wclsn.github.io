@@ -17,7 +17,7 @@ Shaonan Wu is a second-year Ph.D. student in the School of Artificial Intelligen
   <br> TL;DR: We propose a CPU-only method to synthesize new theorems based on existing theorems, which shows promise in enhancing the theorem-proving ability of neural provers.
 
 ### Project
-JoyAI Image
+- **JoyAI Image**
  <br> JD Future Academy
  <br> A series of models for visual understanding, generation, and editing.
  <br> I was mainly responsible for building the caption pipeline in Section 4.1.2 and the rebalance pipeline for continual training in Section 4.1.3.
